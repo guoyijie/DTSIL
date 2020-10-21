@@ -1,0 +1,3 @@
+<maze csv="config/map.csv" time=45 />
+<reward treasure=10 apple=1 rock=-0.05 />
+<meta remaining_time=0 />

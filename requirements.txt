@@ -1,0 +1,7 @@
+tensorflow==1.14.0
+gym[atari]==0.10.8
+numpy==1.16.2
+mpi4py==3.0.2
+opencv-python==4.1.0
+bs4==4.7.1
+matplotlib==3.0.3
